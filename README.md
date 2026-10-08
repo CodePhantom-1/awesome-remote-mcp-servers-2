@@ -130,7 +130,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
 - [DDMarketer](https://www.ddmarketer.com) `https://www.ddmarketer.com/api/mcp`
   [![DDMarketer MCP connector](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.CodePhantom-1/ddmarketer-mcp)
-  🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for commercial intent; search and scores need no key.
+  🔓 - Validated SaaS opportunities mined from real user complaints, scored 0-100 for intent; search and scores need no key.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
 - [Glasser](https://glasser.ai) `https://api.glasser.ai/mcp`
